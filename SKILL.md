@@ -54,8 +54,10 @@ quantSkills:
   status: dev
   validation_level: runnable
   maintainer_type: community
-  summary_zh: 每日收盘后自动扫描全市场，8 个技术形态检测器（连续强度信号）+ 同花顺主力资金流入做双因子交叉验证，Z-score 行业中性化排名，Top N 个股 DeepSeek LLM 分析，输出 Markdown 日报 + JSON 数据。资金流向 3 路径容灾：同花顺→东方财富 AKShare→东方财富直连。
-  summary_en: Daily A-share post-market screener: 8 technical pattern detectors (continuous
+  summary_zh: >-
+    每日收盘后自动扫描全市场，8 个技术形态检测器（连续强度信号）+ 同花顺主力资金流入做双因子交叉验证，Z-score 行业中性化排名，Top N 个股 DeepSeek LLM 分析，输出 Markdown 日报 + JSON 数据。资金流向 3 路径容灾：同花顺→东方财富 AKShare→东方财富直连。
+  summary_en: >-
+    Daily A-share post-market screener: 8 technical pattern detectors (continuous
     float strength) x Tonghuashun capital inflow filter = dual-factor cross-validated
     stock picks with DeepSeek LLM analysis and z-score industry neutralization.
     Fund flow uses 3-path fallback: Tonghuashun → East Money (AKShare) → East Money direct.
