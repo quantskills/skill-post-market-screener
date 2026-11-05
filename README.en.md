@@ -333,3 +333,6 @@ This Skill's output is for research reference only. It does **not constitute any
 ## License
 
 GPLv3
+
+
+Pandadata compatibility maintenance: [abgyjaguo](https://github.com/abgyjaguo). Existing authorship is retained.

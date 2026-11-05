@@ -23,7 +23,7 @@ pip install -r requirements.txt
 依赖清单：
 
 ```
-panda_data>=0.0.9      # Pandadata API SDK
+panda_data==1.0.6      # Pandadata API SDK
 pandas>=2.0.0           # 数据处理
 numpy>=1.22,<2.0        # 数值计算
 pyyaml>=6.0             # 配置解析
